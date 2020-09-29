@@ -3,14 +3,7 @@
 # App Logo: 
 ![alt text](GetRoomieCode/app/src/main/res/drawable/icon.jpg)
 
-## Teammates:
-
-1. Bhagya Sree Chanda
-1. Nikitha Lakmarapu
-1. Leela Krishna Kosaraju
-
-
-### Introduction to our project:
+### Introduction to the project:
 This application is mainly used for a person to find room mate. The user can post their room availability or The user can view posted room availabilities.
 
 Our application can run in every Android mobile devices.
